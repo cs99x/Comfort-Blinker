@@ -1,0 +1,4 @@
+../Core/Src/ledDriver.c:28:6:blinkPeriod	14
+../Core/Src/ledDriver.c:73:6:getActivePeriod	1
+../Core/Src/ledDriver.c:77:9:getStep	1
+../Core/Src/ledDriver.c:81:6:switchLed	1
