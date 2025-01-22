@@ -1,4 +1,0 @@
-../Core/Src/ledDriver.c:28:6:blinkPeriod	24	static
-../Core/Src/ledDriver.c:73:6:getActivePeriod	4	static
-../Core/Src/ledDriver.c:77:9:getStep	4	static
-../Core/Src/ledDriver.c:81:6:switchLed	24	static

@@ -1,2 +1,0 @@
-../Core/Src/buttonReader.c:24:9:buttonReader	16	static
-../Core/Src/buttonReader.c:51:13:debounceButton	24	static
