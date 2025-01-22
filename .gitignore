@@ -2,3 +2,11 @@
 *.d
 *.o
 *.su
+*.Id
+*.launch
+*.s
+*.list
+*.mk
+*.map
+*.elf
+*.mk
